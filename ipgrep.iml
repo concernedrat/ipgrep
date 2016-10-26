@@ -7,5 +7,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="GOPATH &lt;guebo&gt;" level="project" />
     <orderEntry type="library" name="GOPATH &lt;magicdns&gt;" level="project" />
+    <orderEntry type="library" name="GOPATH &lt;ipgrep&gt;" level="project" />
   </component>
 </module>

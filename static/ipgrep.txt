@@ -2,10 +2,9 @@
 	Hi,
 	<p>
 	What is ipgrep.com?
-	</p>
-	<p>
+
 	ipgrep.com is a domain name that resolves any ip passed as subdomain to that IP, just that.
-	</p>
+
 	<ul>
 		<li>127.0.0.1.ipgrep.com  			 ->   127.0.0.1</li>
 		<li>10.0.0.1.ipgrep.com  				 ->   10.0.0.1</li>
@@ -14,5 +13,6 @@
 	  <li>foo.bar.10.0.0.1.ipgrep.com  ->   10.0.0.1</li>
 		<li>foo.bar.fe80-0000-0000-0000-0204-61ff-fe9d-f156.ipgrep.com ->  fe80:0000:0000:0000:0204:61ff:fe9d:f156</li>
 	</ul>
+	</p>
 	<small>Experimental IPv6 support.</small>
-	<p>Have fun! it's free.</p><p><small>&copy;2016 Jorge Marizan</small></p>
+	<p>Have fun! it's free.</p><p><small>&copy;2016 Jorge Marizan.</small></p>
